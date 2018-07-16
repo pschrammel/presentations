@@ -2,7 +2,7 @@
   "project": "presentations",
     
   "git": "github.com/pschrammel/presentations",
-  "path": "presentations/ruby-for-kids",
+  "path": "pschrammel_presentations",
   "docker": {
     "repo": "pschrammel",
     "name": "presentations"
