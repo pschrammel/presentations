@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: slide
 title:  "About me"
 date:   2018-07-02 05:14:46 +0000
 categories: author
