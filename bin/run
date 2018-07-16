@@ -1,5 +1,5 @@
 #!/bin/bash
 app_dir=`pwd`
-prj_file="$app_dir/project.json"
-path=`jq -r ".path" "$prj_file"`
-docker run -d -p 4000:4000 -v /vagrant/apps/$path:/code --rm -ti pschrammel/presentations:latest /code/bin/serve
+#prj_file="$app_dir/project.json"
+#path=`jq -r ".path" "$prj_file"`
+docker run -d -p 4000:4000 -v $app_dir:/code --rm -ti pschrammel/presentations:latest /code/bin/serve

@@ -5,7 +5,7 @@ date:   2018-07-02 05:14:46 +0000
 categories: author
 ---
 
-Hi I'm Peter. No live reload?
+Hi I'm Peter.
 
 
 {% highlight ruby %}

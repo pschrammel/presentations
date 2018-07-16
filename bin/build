@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 tag=`date +%Y%m%d%H%M`
 app_dir=`pwd`
 prj_file="$app_dir/project.json"
@@ -14,7 +16,7 @@ echo "action: $ACTION"
 # TODO: only if aws
 
 if [ "$ACTION" == "build" ]; then
-  `aws ecr get-login --region eu-west-1 --no-include-email`
+#  `aws ecr get-login --region eu-west-1 --no-include-email`
   docker build -t $repo/$project:latest $app_dir
 fi
 
