@@ -25,3 +25,16 @@ Using ruby in the areas:
   * Office org (redmine)
   * Desktop: (not yet)
 </section>
+<section markdown="1">
+Talks on: [https://pschrammel.github.io/presentations](https://pschrammel.github.io/presentations)
+
+</section>
+
+<section>
+Keys:
+ * O overview
+ * S Speaker notes
+ * B Blackscreen
+ * F Fullscreen
+
+</section>

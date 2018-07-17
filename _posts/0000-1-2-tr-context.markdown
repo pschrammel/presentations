@@ -30,7 +30,9 @@ ronja.interests.first
 <section markdown="1">
  * linux is set (cheap, already there)
  * ruby is "simple","natural","dirty"
- * web is complex!
+ * web is [complex][webcomplexity]!
+
+ [webcomplexity]: https://github.com/kamranahmedse/developer-roadmap
 </section>
 
 <section markdown="1">
@@ -59,7 +61,7 @@ p self.class.ancestors.inspect
 
 
 <section markdown="1">
-Teh Kernel module is included into Object! Thats why we can go php style:
+The Kernel module is included into Object! Thats why we can go php style:
 {% highlight ruby %}
 input=gets
 for i in 0..5
