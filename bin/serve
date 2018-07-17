@@ -1,3 +1,5 @@
 #!/bin/bash
-exec bundle exec jekyll serve -H 0.0.0.0 -P 4000 -l --livereload-port 4001 --incremental
+exec bundle exec jekyll serve -H 0.0.0.0 -P 4000 -l --livereload-port 4001 
+
+#--incremental
 

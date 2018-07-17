@@ -1,0 +1,27 @@
+---
+layout: slide
+title:  "About me"
+date:   2018-07-02 05:14:46 +0000
+categories: author
+---
+
+<section markdown="1">
+Hi, I'm Peter!
+</section>
+
+<section markdown="1">
+Writing code since I'm 11.
+</section>
+<section markdown="1">
+Currently cto@metoda.com
+
+( but doing more coding than the "C"-level stuff )
+</section>
+
+<section markdown="1">
+Using ruby in the areas:
+  * DevOps/Admin (chef, logstash, scripting (deployment, CI))
+  * Backend Web development (rails, sinatra, padrino)
+  * Office org (redmine)
+  * Desktop: (not yet)
+</section>
