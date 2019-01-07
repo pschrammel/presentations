@@ -11,6 +11,9 @@ Hi, I'm Peter!
 
 <section markdown="1">
 Writing code since I'm 11.
+
+Assembler, Pascal, C, VB, Tcl/Tk, Perl, PHP, Ocaml, Olabl, Ruby, Javascript,
+Elixir.
 </section>
 <section markdown="1">
 Currently cto@metoda.com
@@ -20,6 +23,7 @@ Currently cto@metoda.com
 
 <section markdown="1">
 Using ruby in the areas:
+
   * DevOps/Admin (chef, logstash, scripting (deployment, CI))
   * Backend Web development (rails, sinatra, padrino)
   * Office org (redmine)
@@ -30,8 +34,9 @@ Talks on: [https://pschrammel.github.io/presentations](https://pschrammel.github
 
 </section>
 
-<section>
+<section markdown="1">
 Keys:
+
  * O overview
  * S Speaker notes
  * B Blackscreen
