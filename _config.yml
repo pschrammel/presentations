@@ -1,5 +1,5 @@
 timezone:    Europe/Berlin
-future:      false
+future:      true
 # Set baseurl to the base path of the site eg "/mytalk"
 baseurl:     "/presentations" #/presentations"
 # The allowed values are 'rouge', 'pygments' or null.
