@@ -102,6 +102,8 @@ reveal:
   maxScale: 1.5
 
 exclude: [
+  "Dockerfile",
+  "bin",
   "Gemfile",
   "Gemfile.lock",
   "vendor",
